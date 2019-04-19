@@ -31,8 +31,6 @@
       <img src="./assets/app-store@3x.png" class="connect">
       <img src="./assets/external-link@3x.png" class="connect">
       </div>
-      <i></i>
-      <i></i>
       <p>Uniticket.aero – это продажа<br>
       билетов любых перевозчиков<br>
       сразу на все направления<br>
