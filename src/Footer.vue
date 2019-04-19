@@ -43,7 +43,7 @@
       <img src="./assets/telephone-handle-silhouette@3x.png" class="connect">
       <img src="./assets/maps-and-flags@3x.png" class="connect">
       </div>
-      <p>© АвиаТурне 2009 — 2019</p><br>
+      <p>&copy; АвиаТурне 2009 — 2019</p><br>
       <br>
       <p> Мы не штампуем - мы создаем<br> IT's WEB</p>
     </div>
